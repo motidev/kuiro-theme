@@ -1,7 +1,7 @@
 ### 📋 Description
 A beautiful dark theme for VsCode. You can visit [**Github Repo**](https://github.com/motidev/kuiro-theme) 💜
 
-Preview in web [**here**](https://vscode.dev/theme/Moti.kuiro-theme)
+Preview in web [**here**](https://vscode.dev/theme/Kodi.kuiro-theme)
 
 You can report bugs [**here**](https://github.com/motidev/kuiro-theme/issues)
 
