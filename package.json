@@ -1,11 +1,11 @@
 {
   "name": "kuiro-theme",
   "displayName": "Kuiro Theme",
-  "publisher": "Kodi",
-  "description": "A beautiful dark theme for VsCode powered by Moti",
+  "publisher": "Moti",
+  "description": "A beautiful dark theme for VsCode",
   "license": "MIT",
   "icon": "logo.png",
-  "version": "1.3.2",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/motidev/kuiro-theme"
