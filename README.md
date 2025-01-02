@@ -42,12 +42,12 @@ Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code
 
   <img  src="./public/images/kuiropalet.png">
 
-  See [**here**](https://github.com/motidev/kuiro-theme/blob/main/public/images/kuiropalet.png)
+  See [**here**](https://github.com/motidev/kuiro-theme/blob/master/public/images/kuiropalet.png)
 &nbsp;
 
 ### 🔖 License
 
-You can see the [**License**](https://github.com/motidev/kuiro-theme/blob/main/LICENSE)
+You can see the [**License**](https://github.com/motidev/kuiro-theme/blob/master/LICENSE)
 &nbsp;
 
 ### 🤟 Thanks
