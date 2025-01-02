@@ -5,7 +5,6 @@ Preview in web [**here**](https://vscode.dev/theme/Kodi.kuiro-theme)
 
 You can report bugs [**here**](https://github.com/motidev/kuiro-theme/issues)
 
-&nbsp;
 ### 📥 Installation  
   ```jsonc
 
