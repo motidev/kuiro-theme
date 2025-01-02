@@ -20,7 +20,7 @@ You can report bugs [**here**](https://github.com/motidev/kuiro-theme/issues)
 
    ```
 
-Visit the extension [**marketplace**](https://marketplace.visualstudio.com/items?itemName=Kodi.arcadia-theme)
+Visit the extension [**marketplace**](https://marketplace.visualstudio.com/items?itemName=Kodi.kuiro-theme)
 &nbsp;
 
 ### ⚙ Recommended Settings 
@@ -42,19 +42,15 @@ Download the [**Cascadia Code Font**](https://github.com/microsoft/cascadia-code
 
   <img  src="./public/images/kuiropalet.png">
 
-  See [**here**](https://github.com/motidev/arcadia-theme/blob/main/public/images/kuiropalet.png)
+  See [**here**](https://github.com/motidev/kuiro-theme/blob/main/public/images/kuiropalet.png)
 &nbsp;
 
 ### 🔖 License
 
-You can see the [**License**](https://github.com/motidev/arcadia-theme/blob/main/LICENSE)
+You can see the [**License**](https://github.com/motidev/kuiro-theme/blob/main/LICENSE)
 &nbsp;
 
 ### 🤟 Thanks
     If you like this extension, you could give a ⭐.
 &nbsp;
-<p align="center"><b>© 2024 Motidev. All rights reserved</b></p>
-
-
-
-
+<p align="center"><b>© 2024 Kuiro All rights reserved</b></p>
